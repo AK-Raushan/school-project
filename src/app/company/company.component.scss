@@ -1,0 +1,33 @@
+.help-edtech-founders-story {
+    .card {
+        background: linear-gradient(119.21deg, rgba(54, 188, 155, 0.17) 0%, rgba(0, 33, 198, 0.17) 100%);
+        border-radius: 40px;
+
+        .card-body{
+            padding: 50px;
+        }
+
+        .card-title {
+            font-family: Poppins;
+            font-weight: 500;
+            font-style: Medium;
+            font-size: 30px;
+            line-height: 150%;
+            letter-spacing: -1.1%;
+            color: #0021C6;
+
+        }
+
+        .card-text {
+            font-family: Poppins;
+            font-weight: 400;
+            font-style: Regular;
+            font-size: 24px;
+            line-height: 45px;
+            letter-spacing: 0%;
+            color: #3F3F3F;
+        }
+
+    }
+
+}
