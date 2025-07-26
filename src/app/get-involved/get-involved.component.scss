@@ -1,3 +1,108 @@
-.card {
+.schooboard{
+    font-family: Poppins;
+font-weight: 500;
+font-style: Medium;
+font-size: 30px;
+line-height: 150%;
+letter-spacing: -1.1%;
+text-align: center;
+
+}
+.card1 {
     background: linear-gradient(90deg, #C7D5F3 0%, #FBE6C9 50%, #CBFFD7 100%);
+}
+
+.card-text {
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 15px;
+    line-height: 30px;
+    letter-spacing: 0%;
+
+}
+
+.card-title {
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+
+}
+
+.ctp {
+    background: #F2F4FF;
+
+}
+
+.publishers {
+    background: #F5F1FF;
+
+
+}
+
+.cocl {
+    background: #F2FFFC;
+
+}
+
+.globalnetwork {
+    background: #FFF2FA;
+
+}
+
+.gncard3 {
+    border-radius: 0;
+    border: 1px solid #dee2e6;
+}
+
+.gncard3+.gncard3 {
+    border-left: none;
+    /* Removes the border gap between cards */
+}
+
+// .gncard3-img-top {
+//     object-fit: cover;
+//     height: 200px;
+// }
+
+.globalnetwork3main{
+    background: #667ADD1A;
+    border-radius: 24px;
+    padding: 4px;
+}
+.globalnetwork3 {
+    background-size: 100% 100%;
+    background-position: center;
+    border-radius: 24px;
+    width: 1216;
+    height: 200px;
+    background: #667ADD;
+    color: white;
+    border: none;
+
+
+}
+.globalnetworkcard3-2{
+background: #667ADD1A;
+border-bottom-left-radius: 0px !important;
+border-top-left-radius: 0px !important;
+border: none;
+}
+
+.gncard3text {
+    font-family: Inter;
+    font-weight: 600;
+    font-style: Semi Bold;
+    font-size: 20px;
+    line-height: 47.6px;
+    letter-spacing: 0%;
+
+}
+.cnpe{
+    background: #F0FCFF;
+
 }
